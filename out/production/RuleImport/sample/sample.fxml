@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane  fx:id="anchorroot" prefHeight="343.0" prefWidth="395.0"  maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <JFXTextField layoutX="21.0" layoutY="27.0" maxWidth="357.0" minWidth="306.0" focusColor="SLATEGRAY" prefHeight="40.0" prefWidth="357.0" promptText="Rule Name" fx:id="rule_name"/>
+      <JFXTextArea layoutX="27.0" layoutY="79.0" maxWidth="385.0" minWidth="347.0"  prefWidth="349.0" unFocusColor="slategray" promptText="Rule Description" fx:id="description"/>
+      <JFXButton layoutX="271.0" layoutY="286.0" prefHeight="32.0" prefWidth="90.0" text="Submit" fx:id="submit" ripplerFill="slategray" style="-fx-background-color: #e0e0e0" buttonType="RAISED"/>
+   </children>
+</AnchorPane>
+

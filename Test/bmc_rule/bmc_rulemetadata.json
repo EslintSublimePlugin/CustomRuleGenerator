@@ -1,0 +1,7 @@
+{
+    "Desc": "this is a sample rule",
+    "Recommended": true,
+    "Fixable": false,
+    "Link": "http://www.google.com",
+    "Name": "bmc_rule"
+}

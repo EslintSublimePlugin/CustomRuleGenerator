@@ -1,0 +1,4 @@
+{
+    "rules": {"bmc_new_rule": "error"},
+    "env": {"browser": true}
+}

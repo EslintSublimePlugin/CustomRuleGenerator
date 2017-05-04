@@ -1,0 +1,7 @@
+{
+    "Desc": "This is a sample desc",
+    "Recommended": true,
+    "Fixable": false,
+    "Link": "http://www.google.com",
+    "Name": "bmc_prefix"
+}

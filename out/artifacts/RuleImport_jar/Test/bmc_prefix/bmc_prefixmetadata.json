@@ -1,0 +1,7 @@
+{
+    "Desc": "This is new one",
+    "Recommended": true,
+    "Fixable": false,
+    "Link": "http://www.google.com",
+    "Name": "bmc_prefix"
+}

@@ -1,0 +1,5 @@
+{
+    "plugins": ["angular"],
+    "rules": {"bmc_prefix": "error"},
+    "env": {"browser": true}
+}
